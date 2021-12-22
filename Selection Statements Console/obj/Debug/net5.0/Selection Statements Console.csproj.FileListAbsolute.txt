@@ -1,0 +1,16 @@
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.AssemblyInfo.cs
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\Selection Statements Console.exe
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\Selection Statements Console.deps.json
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\Selection Statements Console.runtimeconfig.json
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\Selection Statements Console.runtimeconfig.dev.json
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\Selection Statements Console.dll
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\ref\Selection Statements Console.dll
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\bin\Debug\net5.0\Selection Statements Console.pdb
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.dll
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\ref\Selection Statements Console.dll
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.pdb
+C:\Users\jerem\Desktop\REPOS\Selection Statements\Selection Statements Console\obj\Debug\net5.0\Selection Statements Console.genruntimeconfig.cache
